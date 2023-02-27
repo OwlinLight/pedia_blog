@@ -74,11 +74,13 @@ params:
   # home-info mode
   homeInfoParams:
     Title: "Hi there \U0001F44B"
-    Content: Welcome to my blog, This is a new blog, only leetcode link is avaliable on the right top corner!装修进行中，立入禁止
+    Content: 这里是老派的中文个人站，会Archieve一些长文，通常流媒体会发布在b站，影评在豆瓣，欢迎互关交流。
 
   socialIcons:
     - name: twitter
       url: "https://twitter.com/CharlieTong3/"
+    - name: douban
+      url: "https://www.douban.com/people/150312001/"
     - name: bilibili
       url: "https://space.bilibili.com/1769367"
     - name: github
