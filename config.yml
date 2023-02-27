@@ -1,5 +1,5 @@
-baseURL: "https://examplesite.com/"
-title: ExampleSite
+baseURL: "https://pedia0.netlify.app//"
+title: Pedia's Personal Site
 paginate: 5
 theme: PaperMod
 
@@ -74,15 +74,15 @@ params:
   # home-info mode
   homeInfoParams:
     Title: "Hi there \U0001F44B"
-    Content: Welcome to my blog
+    Content: Welcome to my blog, This is a new blog, only leetcode link is avaliable on the right top corner!装修进行中，立入禁止
 
   socialIcons:
     - name: twitter
-      url: "https://twitter.com/"
-    - name: stackoverflow
-      url: "https://stackoverflow.com"
+      url: "https://twitter.com/CharlieTong3/"
+    - name: bilibili
+      url: "https://space.bilibili.com/1769367"
     - name: github
-      url: "https://github.com/"
+      url: "https://github.com/OwlinLight/"
 
   analytics:
     google:
@@ -122,9 +122,9 @@ menu:
       name: tags
       url: /tags/
       weight: 20
-    - identifier: example
-      name: example.org
-      url: https://example.org
+    - identifier: Leetcode
+      name: Leetcode
+      url: https://www.notion.so/9b3dd38b59734ff4b18fb8addb1c5dcf?v=83a8e5e1d92a4fb284cd8c9a07b6fcf3&pvs=4
       weight: 30
 # Read: https://github.com/adityatelange/hugo-PaperMod/wiki/FAQs#using-hugos-syntax-highlighter-chroma
 pygmentsUseClasses: true
